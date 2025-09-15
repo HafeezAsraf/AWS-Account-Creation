@@ -33,6 +33,8 @@ Choose SMS or voice call for OTP verification.
 Enter OTP to continue
 ## COMMANDS
 Include the commands used in the Experiment.
+## PROCEDURE :
+Amazon Web Services (AWS) offers a wide range of cloud services, but three of its most popular are Amazon EC2 (Elastic Compute Cloud), Amazon S3 (Simple Storage Service), and Amazon RDS (Relational Database Service). EC2 provides scalable virtual servers in the cloud, allowing users to run applications with flexible computing capacity and pay only for what they use. S3 is a highly durable and secure object storage service designed to store and retrieve any amount of data, making it ideal for backups, media hosting, and big data analytics. RDS simplifies the process of setting up, operating, and scaling relational databases such as MySQL, PostgreSQL, or Oracle, by automating tasks like backups, patching, and replication. Together, these services form the backbone for building scalable, reliable, and cost-efficient applications on the cloud
 
 ## OUTPUT
 ### REG NUMBER:212223090006
@@ -41,6 +43,7 @@ Include the commands used in the Experiment.
  <img width="1851" height="841" alt="Screenshot 2025-09-15 141050" src="https://github.com/user-attachments/assets/2168c019-bdfa-489e-b2cd-3129f603e716" />
 
 ## RESULT
+The creation of an aws account and set up of Rootuser and IAM user and also services provided by aws are explored 
  
 
 
