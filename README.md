@@ -4,12 +4,33 @@
 ## PROBLEM STATEMENT
     Explain about the Experiment.
 
-## ALGORITHM
- ### Steps 1:
- ### Steps 2:
- ### Steps 3:
- ### Steps 4:
- ### Steps 5:
+## ALGORITHM:
+### Step 1: Prerequisites
+Valid email address (not already linked to AWS).
+A credit/debit card (AWS requires payment info, even for Free Tier).
+A mobile phone number (for verification).
+Internet browser + stable connection.
+### Step 2: Start Sign-up
+Go to aws.amazon.com
+ → click Create an AWS Account.
+Enter:
+Root email address (this becomes your root login).
+AWS account name (your unique account identifier).
+Verify email with the OTP code AWS sends.
+### Step 3: Provide Account Information
+Choose Personal (for individuals) or Business (if registering under an organization).
+Fill in:
+Full name
+Phone number
+Country/region
+Address
+### Step 4: Add Payment Method
+Enter your credit/debit card details.
+AWS makes a temporary small charge (refundable) to verify.
+### Step 5: Identity Verification
+Enter your phone number.
+Choose SMS or voice call for OTP verification.
+Enter OTP to continue
 ## COMMANDS
 Include the commands used in the Experiment.
 
@@ -21,7 +42,5 @@ Include the commands used in the Experiment.
 
 ## RESULT
  
-
-  
 
 
